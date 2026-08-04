@@ -32,9 +32,10 @@ export function generateStaticParams() {
 export async function generateMetadata({
   params,
 }: {
-  params: Promise<{ locale: Locale }>;
+  params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
-  const { locale } = await params;
+  const { locale: localeParam } = await params;
+  const locale = localeParam as Locale;
   const dict = await getDictionary(locale);
 
   const siteUrl = "https://www.example.com"; // [PLACEHOLDER] replace with the real production domain
@@ -75,9 +76,11 @@ export default async function LocaleLayout({
   params,
 }: {
   children: React.ReactNode;
-  params: Promise<{ locale: Locale }>;
+  params: Promise<{ locale: string }>;
 }) {
-  const { locale } = await params;
+  const { locale: localeParam} = await params;
+  const locale = localeParam as Locale;
+  
   const dict = await getDictionary(locale);
   const dir = isRtl(locale) ? "rtl" : "ltr";
 
