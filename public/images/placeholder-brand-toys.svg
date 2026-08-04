@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700" viewBox="0 0 700 700">
+  <rect width="700" height="700" fill="#00B8A9"/>
+  <rect width="700" height="700" fill="#000000" opacity="0.12"/>
+  <text x="50%" y="48%" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#ffffff" font-weight="600">PLACEHOLDER IMAGE</text>
+  <text x="50%" y="58%" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#ffffff">Toys image</text>
+</svg>

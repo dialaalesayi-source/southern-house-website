@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "title": "Southern House Company | Home of Fun Place, Balloons & Toys — Riyadh",
+    "description": "Southern House Company is the trusted family business behind Fun Place indoor playgrounds, helium balloons & party solutions, and kids' toys — serving Saudi Arabia since 2008."
+  },
+  "topbar": {
+    "phone": "+966 50 447 9295",
+    "whatsapp": "WhatsApp"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Southern House",
+    "brands": "Our Brands",
+    "funplace": "Fun Place",
+    "balloons": "Balloons & Party Solutions",
+    "toys": "Toys",
+    "gallery": "Gallery",
+    "branches": "Branches",
+    "contact": "Contact Us",
+    "cta": "Visit Fun Place"
+  },
+  "hero": {
+    "badge": " ",
+    "headline": "Where kids' imagination comes to life",
+    "subheadline": "Indoor playgrounds designed for wonder, backed by a company families have trusted since 2008.",
+    "ctaPrimary": "Explore Fun Place",
+    "ctaSecondary": "Book a birthday party",
+    "imageAlt": "Children playing in the Fun Place ball pit and indoor playground"
+  },
+  "trustStrip": {
+    "founded": { "value": "2008", "label": "Founded" },
+    "branches": { "value": "12+", "label": "Branches nationwide" },
+    "funplaceLocations": { "value": "3", "label": "Fun Place locations" },
+    "years": { "value": "18+", "label": "Years of trust" }
+  },
+  "intro": {
+    "eyebrow": "The company behind the magic",
+    "headline": "Southern House Company",
+    "body": "Since 2008, Southern House has been creating joyful experiences for children and families across Saudi Arabia — from helium balloons and toys to our newest and fastest-growing destination, Fun Place.",
+    "cta": "Learn about us"
+  },
+  "brands": {
+    "eyebrow": "Our family of brands",
+    "headline": "One company, endless fun",
+    "funplace": {
+      "badge": "Flagship brand",
+      "name": "Fun Place",
+      "description": "Indoor playgrounds built for imagination — ball pits, slides, and themed worlds.",
+      "cta": "Explore Fun Place"
+    },
+    "balloons": {
+      "name": "Balloons & Party Solutions",
+      "description": "Helium balloons, party décor, and celebration essentials, trusted for 18+ years.",
+      "cta": "Explore balloons"
+    },
+    "toys": {
+      "name": "Toys",
+      "description": "Ride-on cars and kids' toys sold across our nationwide vendor network.",
+      "cta": "Explore toys"
+    }
+  },
+  "funplaceTeaser": {
+    "eyebrow": "Three worlds of wonder",
+    "headline": "Discover Fun Place",
+    "body": "From the Space Zone to the Ocean Ball Pit, every corner of Fun Place is designed to spark imagination.",
+    "cta": "Discover Fun Place"
+  },
+  "birthdayBanner": {
+    "headline": "Give them a birthday they'll never forget",
+    "cta": "Book a party"
+  },
+  "balloonsToysStrip": {
+    "balloons": {
+      "headline": "Balloons & Party Solutions",
+      "description": "Character balloons, LED Bobo balloons, and custom arrangements for every celebration.",
+      "cta": "Explore Balloons & Party Solutions",
+      "safetyBadge": "Certified safe helium — non-flammable"
+    },
+    "toys": {
+      "headline": "Toys",
+      "description": "Ride-on cars and quality toys, available through our nationwide vendor kiosks.",
+      "cta": "Explore Toys"
+    }
+  },
+  "whyChooseUs": {
+    "eyebrow": "Why families choose us",
+    "headline": "Why families choose us",
+    "pillars": [
+      {
+        "title": "Safety first",
+        "body": "Certified, non-flammable helium and safety-checked play equipment throughout."
+      },
+      {
+        "title": "18+ years of trust",
+        "body": "A name Saudi families have known and trusted since 2008."
+      },
+      {
+        "title": "Unforgettable experiences",
+        "body": "Fun Place zones designed to spark real imagination, not just play."
+      },
+      {
+        "title": "Nationwide presence",
+        "body": "12+ locations across Saudi Arabia, with more opening soon."
+      }
+    ]
+  },
+  "branchesSection": {
+    "eyebrow": "Visit us",
+    "headline": "Find a Fun Place near you",
+    "viewAll": "View all branches",
+    "statusOpen": "Open",
+    "statusSoon": "Opening soon",
+    "getDirections": "Get directions",
+    "viewDetails": "View details",
+    "footnote": "Plus 12+ Toys & Balloons vendor points across Saudi Arabia."
+  },
+  "gallery": {
+    "eyebrow": "Gallery",
+    "headline": "A glimpse into the fun",
+    "cta": "View full gallery"
+  },
+  "testimonials": {
+    "eyebrow": "Trusted by families",
+    "quotes": [
+      {
+        "quote": "My children had an amazing time and didn't want to leave. We'll definitely be back!",
+        "attribution": "Parent, Riyadh"
+      },
+      {
+        "quote": "The staff were incredibly friendly, and everything was so well organized. It made our family day truly special.",
+        "attribution": "Parent, Najran"
+      }
+    ],
+    "trustedByLabel": "Trusted by leading malls and partners"
+  },
+  "footer": {
+    "tagline": "Creating joyful family experiences across Saudi Arabia since 2008.",
+    "companyHeading": "Company",
+    "brandsHeading": "Our brands",
+    "contactHeading": "Get in touch",
+    "address": "Salah Al-Din Al-Ayoubi Rd, Al-Malaz, Riyadh 12642",
+    "email": "baytelganoub@gmail.com",
+    "copyright": "Southern House Company for Children's Games — parent company of Fun Place, Balloons & Party Solutions, and Toys."
+  }
+}

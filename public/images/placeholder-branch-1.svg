@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#1B3A5C"/>
+  <rect width="800" height="600" fill="#000000" opacity="0.12"/>
+  <text x="50%" y="48%" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#ffffff" font-weight="600">PLACEHOLDER IMAGE</text>
+  <text x="50%" y="58%" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#ffffff">Branch 1 photo</text>
+</svg>
